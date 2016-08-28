@@ -1,0 +1,6 @@
+framework module Pods_moyopi {
+  umbrella header "Pods-moyopi-umbrella.h"
+
+  export *
+  module * { export * }
+}
