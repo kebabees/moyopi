@@ -14,6 +14,7 @@
 		C3F9432E1D72B870003CA687 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F9432C1D72B870003CA687 /* Main.storyboard */; };
 		C3F943301D72B870003CA687 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3F9432F1D72B870003CA687 /* Assets.xcassets */; };
 		C3F943331D72B870003CA687 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F943311D72B870003CA687 /* LaunchScreen.storyboard */; };
+		C3F9433D1D72D1D5003CA687 /* EventDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F9433C1D72D1D5003CA687 /* EventDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C3F9432F1D72B870003CA687 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3F943321D72B870003CA687 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3F943341D72B870003CA687 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3F9433C1D72D1D5003CA687 /* EventDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventDetailViewController.swift; sourceTree = "<group>"; };
 		D09C74D1CB112A07B27B8E9A /* Pods_moyopi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_moyopi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -79,6 +81,7 @@
 				C3F9432F1D72B870003CA687 /* Assets.xcassets */,
 				C3F943311D72B870003CA687 /* LaunchScreen.storyboard */,
 				C3F943341D72B870003CA687 /* Info.plist */,
+				C3F9433C1D72D1D5003CA687 /* EventDetailViewController.swift */,
 			);
 			path = moyopi;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 			files = (
 				C3F9432B1D72B870003CA687 /* SecondViewController.swift in Sources */,
 				C3F943271D72B870003CA687 /* AppDelegate.swift in Sources */,
+				C3F9433D1D72D1D5003CA687 /* EventDetailViewController.swift in Sources */,
 				C3F943291D72B870003CA687 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
